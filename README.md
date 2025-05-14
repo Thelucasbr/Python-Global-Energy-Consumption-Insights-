@@ -16,16 +16,15 @@ To visualize and compare the top 5 countries by energy consumption in each categ
 - Applied color-coding to highlight renewables vs. non-renewables
 
 ## Key Insights:
-This project compares the top 5 countries in consumption of nuclear, hydro, wind, solar, and fossil fuels.  
+This project compares the top 5 countries in consumption of nuclear, solar,wind, hydro and fossil fuels.  
 While fossil fuels still dominate, renewable sources like wind and solar are quickly growing in key economies.  
 Nuclear energy, despite being efficient, still raises safety concerns in global policy discussions.
 
-![Solar Energy – Top 5 Countries](https://github.com/user-attachments/assets/4d29283b-8c19-41f7-ab47-103725aad059)
-![Fossil Fuel Energy – Top 5 Countries](https://github.com/user-attachments/assets/10562fbf-7d40-44e0-8ea8-5b9553f1a216)
-![Hydroelectric Energy – Top 5 Countries](https://github.com/user-attachments/assets/efd94899-4ad4-493c-a2a9-3387b06a1a46)
-![Wind Energy – Top 5 Countries](https://github.com/user-attachments/assets/81a26f1c-259f-432a-8697-4feda4696486)
-![Nuclear Energy – Top 5 Countries](https://github.com/user-attachments/assets/9aeba57e-f139-49bf-94fb-0650d128c159)
-
+![Nuclear Energy – Top 5 Countries](https://github.com/user-attachments/assets/786de3b0-bc98-4f46-bf7d-5764a6cea904)
+![Solar Energy – Top 5 Countries](https://github.com/user-attachments/assets/5339d6ea-9415-4ff0-9706-e57e72374990)
+![Wind Energy – Top 5 Countries](https://github.com/user-attachments/assets/b9c748a6-80f1-4260-979f-c157a3f187b5)
+![Hydroelectric Energy – Top 5 Countries](https://github.com/user-attachments/assets/09d8f68f-4451-4739-a722-4f61cb769713)
+![Fossil Fuel Energy – Top 5 Countries](https://github.com/user-attachments/assets/580892b2-a316-4ad9-92bc-99620da51e62)
 
 ## Technologies Used:
 - Python
